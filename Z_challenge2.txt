@@ -1,0 +1,5 @@
+Z_challenge2.png
+It was a QR code
+So --> zbarimg Z_challenge2.png gave the flag:
+
+flag{QR_code_scanned}

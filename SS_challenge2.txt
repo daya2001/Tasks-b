@@ -1,0 +1,4 @@
+SS_challenge2.png
+
+zbarimg SS_challenge2.png
+gave--> C_F(n1, n2) = 14 * [C(n1,n2) / 14] + 7 * FLAG(n1,n2) + (C(n1,n2) mod 7)

@@ -1,0 +1,6 @@
+s_challenge2.jpg 
+
+strings s_challenge2.jpg 
+gave the flag-->
+inctf{5tr1ng5_4r3_us3ful_1_gu3s5}
+

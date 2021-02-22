@@ -1,0 +1,6 @@
+E_challenge2.jpg
+
+exiftool E_challenge2.jpg
+gave 		 --> aW5jdGZ7M3gxZjcwMGxfMTVfbjFjZV8hX2d1M3NzX19fISEhIX0=
+It looks like base64 encoding
+Decoding it gave --> inctf{3x1f700l_15_n1ce_!_gu3ss___!!!!}

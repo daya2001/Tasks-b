@@ -1,0 +1,4 @@
+b_challenge2.docx
+
+strings b_challenge2.docx
+gave--> flag{h0wz_the_joke_hahahha!!}

@@ -1,0 +1,6 @@
+SH_challenge2.jpg
+
+strings SH_challenge2.jpg
+gave	--> RW5pbWkzc19haDNhZAo=
+which lloks like a base64 encoding, decoding it gives
+	-->Enimi3s_ah3ad 
