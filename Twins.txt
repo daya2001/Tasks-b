@@ -1,0 +1,6 @@
+cmp Twin1 Twin2
+gives--> Twin1 Twin2 differ: byte 2341267, line 99
+
+So on analysing both using ghex, we find:
+file: Twin1 has 'D'
+file: Twin2 has 'i' at byte 2341267
